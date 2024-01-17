@@ -1,0 +1,21 @@
+{
+    "id": "4a97177d-1ca4-453a-b1f8-af2da04707ca",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nimetu",
+        "homepage": "https://github.com/nimetu/",
+        "support": ""
+    },
+    "name": "TestSlash",
+    "nameSlug": "testslash",
+    "classFile": "TestSlashApp.ts",
+    "description": "slash command test",
+    "implements": [],
+    "permissions": [
+        {
+            "name": "slashcommand"
+        }
+    ]
+}
